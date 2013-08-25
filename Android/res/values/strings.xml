@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrafficPreemption</string>
+    <string name="login">User Login</string>
+    <string name="enterusername">Enter Username:</string>
+    <string name="enterpriority">Select Priority Level:</string>
+    <string name="p1">Very High</string>
+    <string name="p2">High</string>
+    <string name="p3">Medium</string>
+    <string name="p4">Normal</string>
+    <string name="emergency">Declare Emergency</string>
+    <string name="stopemergency">Terminate Emergency</string>
+    <string name="blank"></string>
+    <string name="lattitude">Current Latitude:</string>
+    <string name="longitude">Current Longitude:</string>
+    <string name="enterpassword">Enter Password:</string>
+    <string name="menu_settings">Settings</string>
+    <string name="temporary">Temporary Page for Testing</string>
+    <string name="bLogin">Login</string>
+    <string name="logout">Logout</string>
+    <string name="bearing">Bearing</string>
+    <string name="speed">Speed</string>
+ 	<string name="title">Emergency Traffic Signal Preemption Android Client Application</string>
+</resources>
